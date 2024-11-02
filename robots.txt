@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azojeiyi.github.io/EIt/sitemap_index.txt
+Sitemap: https://azojeiyi.github.io/LAY/sitemap_index.txt
+Sitemap: https://azojeiyi.github.io/NhH/sitemap_index.txt
+Sitemap: https://azojeiyi.github.io/ghf/sitemap_index.txt
